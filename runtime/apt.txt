@@ -1,0 +1,14 @@
+build-essential
+cmake
+curl
+g++
+gcc
+git
+ffmpeg
+libbz2-dev
+liblzma-dev
+libxml2
+tzdata
+wget
+zip
+zlib1g-dev
